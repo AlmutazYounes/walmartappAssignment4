@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Walmart application</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="password_required">Password (required)</string>
+    <string name="email_address_required">Email address (required)</string>
+    <string name="sign_in_your_account">Sign in your account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="create_a_new_account">Create a new Account!</string>
+</resources>
